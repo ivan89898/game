@@ -1,7 +1,7 @@
 public class Player {
-protected int id;
-protected String name;
-protected int strength;
+    protected int id;
+    protected String name;
+    protected int strength;
 
     public Player(int id, String name, int strength) {
         this.id = id;
